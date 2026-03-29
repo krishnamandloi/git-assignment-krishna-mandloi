@@ -38,7 +38,7 @@ main {
 
 
 section {
-    background: #b6b5b5;
+    background: #95a5b5;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 12px;
@@ -83,7 +83,7 @@ img:hover {
     display: inline-block;
     margin-top: 12px;
     padding: 9px 18px;
-    background: blue;
+    background: rgb(84, 84, 92);
     color: beige;
     
     border-radius: 60px;
@@ -91,7 +91,7 @@ img:hover {
 }
 
 .btn:hover {
-    background: #2f66b0;
+    background: #6d7279;
 }
 
 
